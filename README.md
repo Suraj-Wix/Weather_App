@@ -85,6 +85,6 @@ This project is licensed under the MIT License.
 
 **Suraj Kumar Sharma**
 
-- GitHub: https://github.com/your-github-username
+- GitHub: https://github.com/Suraj-Wix
 
 ⭐ Don't forget to star this repository if you found it useful!
